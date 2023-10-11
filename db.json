@@ -4,7 +4,8 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": 15.99,
+      "inStock": true
     },
     {
       "id": 2,
@@ -41,6 +42,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Robert Plant",
+      "image": "https://media.npr.org/assets/music/specials/50greatvoices/robert_plant/robert_plant-b1c052cf4a335dffb1201940dff765c11825f371-s300-c85.webp",
+      "price": "19.69",
+      "id": 8
     }
   ]
 }
